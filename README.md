@@ -53,7 +53,7 @@ Dot Net Core was built with cloud in mind, so it is extremely robust with that.
 
 # Project Schema
 
-```py
+```cs
 <BulkyBook>
 ├── BulkyBook.DataAccess                                         # Data Access Layer
 |   ├── Data
