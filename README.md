@@ -291,7 +291,7 @@ To run on your local pc:
   - Run the following command in the Nuget Package Manager terminal to push migrations and seed the MS SQL database:
     - `update database`
   - Use Admin User account details below to get started and populate data in the database.
-  - Run the application in Cisual Studio
+  - Run the application in Visual Studio
 
 # User Accounts, Role and Identity Management
 
