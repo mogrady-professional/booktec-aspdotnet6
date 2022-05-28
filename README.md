@@ -1,6 +1,6 @@
 <h1 align="center">Booktec / BulkyBook Bookstore Application</h1>
 
-<p align="center"><img src="images/capture.PNG"  height="auto" width="100%"></p>
+<p align="center"><img src="images/Capture.PNG"  height="auto" width="100%"></p>
 Stripe Payments Screenshot
 <p align="center"><img src="images/stripe.PNG"  height="auto" width="100%"></p>
 
